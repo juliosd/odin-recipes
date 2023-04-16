@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    color: rgb(47, 36, 29);
+    font-family: Underdog, Arial, sans-serif;
+}
+
+div {
+    background-color: rgb(255, 196, 37);
+}
+
+h1 {
+    font-family: "Puppies Play", Arial, sans-serif;
+}
+
+.main-header,
+.sub-header {
+    font-family: 'Brush Script MT', cursive, sans-serif;
+}
+
+img{
+    width: 256px;
+    height:auto;
+}
